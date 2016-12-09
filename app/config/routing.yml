@@ -1,0 +1,5 @@
+azeroth_world:
+    resource: "@AzerothWorldBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
